@@ -1,0 +1,73 @@
+cube,T_gas_K,face,position,normal,wood_direction,h_W_m2K,k_cv_m_s,in_moisture_model
+S1,295,1,side,x-,L,42.169724,0.039733814,exposed (heat and moisture)
+S1,295,2,side,x+,L,46.488371,0.043802998,exposed (heat and moisture)
+S1,295,3,windward,y-,R,45.354305,0.04273444,sealed (no exchange)
+S1,295,4,leeward,y+,R,36.190173,0.034099669,sealed (no exchange)
+S1,295,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S1,295,6,top,z+,T,46.572391,0.043882164,sealed (no exchange)
+S1,320,1,side,x-,L,39.959383,0.040671627,exposed (heat and moisture)
+S1,320,2,side,x+,L,44.208753,0.044996738,exposed (heat and moisture)
+S1,320,3,windward,y-,R,43.178648,0.043948273,sealed (no exchange)
+S1,320,4,leeward,y+,R,32.405537,0.03298314,sealed (no exchange)
+S1,320,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S1,320,6,top,z+,T,43.6119,0.044389247,sealed (no exchange)
+S1,345,1,side,x-,L,38.16195,0.041753711,exposed (heat and moisture)
+S1,345,2,side,x+,L,42.182405,0.046152567,exposed (heat and moisture)
+S1,345,3,windward,y-,R,41.261604,0.045145101,sealed (no exchange)
+S1,345,4,leeward,y+,R,27.734958,0.030345342,sealed (no exchange)
+S1,345,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S1,345,6,top,z+,T,41.203445,0.045081469,sealed (no exchange)
+S1,375,1,side,x-,L,36.872245,0.043752313,exposed (heat and moisture)
+S1,375,2,side,x+,L,40.270739,0.047784938,exposed (heat and moisture)
+S1,375,3,windward,y-,R,39.354279,0.046697475,sealed (no exchange)
+S1,375,4,leeward,y+,R,26.439218,0.031372566,sealed (no exchange)
+S1,375,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S1,375,6,top,z+,T,38.253562,0.045391373,sealed (no exchange)
+S2,295,1,side,x-,L,46.59384,0.043902374,sealed (no exchange)
+S2,295,2,side,x+,L,46.285986,0.043612303,sealed (no exchange)
+S2,295,3,windward,y-,R,45.647568,0.043010763,exposed (heat and moisture)
+S2,295,4,leeward,y+,R,29.875355,0.028149623,exposed (heat and moisture)
+S2,295,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S2,295,6,top,z+,T,47.826848,0.045064158,exposed (heat and moisture)
+S2,320,1,side,x-,L,44.328775,0.0451189,sealed (no exchange)
+S2,320,2,side,x+,L,44.03629,0.044821202,sealed (no exchange)
+S2,320,3,windward,y-,R,43.461878,0.044236551,exposed (heat and moisture)
+S2,320,4,leeward,y+,R,28.98508,0.029501716,exposed (heat and moisture)
+S2,320,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S2,320,6,top,z+,T,45.048481,0.045851434,exposed (heat and moisture)
+S2,345,1,side,x-,L,42.590302,0.046598855,sealed (no exchange)
+S2,345,2,side,x+,L,42.384542,0.046373729,sealed (no exchange)
+S2,345,3,windward,y-,R,41.53651,0.045445881,exposed (heat and moisture)
+S2,345,4,leeward,y+,R,31.027407,0.033947673,exposed (heat and moisture)
+S2,345,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S2,345,6,top,z+,T,41.841627,0.045779716,exposed (heat and moisture)
+S2,375,1,side,x-,L,40.55807,0.048125883,sealed (no exchange)
+S2,375,2,side,x+,L,40.415765,0.047957026,sealed (no exchange)
+S2,375,3,windward,y-,R,39.524502,0.04689946,exposed (heat and moisture)
+S2,375,4,leeward,y+,R,26.878474,0.031893783,exposed (heat and moisture)
+S2,375,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S2,375,6,top,z+,T,38.632418,0.04584092,exposed (heat and moisture)
+S3,295,1,side,x-,L,46.796309,0.044093148,exposed (heat and moisture)
+S3,295,2,side,x+,L,42.223623,0.0397846,exposed (heat and moisture)
+S3,295,3,windward,y-,R,44.803979,0.042215903,exposed (heat and moisture)
+S3,295,4,leeward,y+,R,24.87037,0.023433748,exposed (heat and moisture)
+S3,295,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S3,295,6,top,z+,T,44.92197,0.042327079,exposed (heat and moisture)
+S3,320,1,side,x-,L,44.455655,0.045248042,exposed (heat and moisture)
+S3,320,2,side,x+,L,39.806571,0.040516091,exposed (heat and moisture)
+S3,320,3,windward,y-,R,42.660946,0.043421344,exposed (heat and moisture)
+S3,320,4,leeward,y+,R,24.090086,0.024519472,exposed (heat and moisture)
+S3,320,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S3,320,6,top,z+,T,41.949947,0.042697671,exposed (heat and moisture)
+S3,345,1,side,x-,L,42.393982,0.046384058,exposed (heat and moisture)
+S3,345,2,side,x+,L,38.241205,0.041840426,exposed (heat and moisture)
+S3,345,3,windward,y-,R,40.843633,0.044687792,exposed (heat and moisture)
+S3,345,4,leeward,y+,R,26.211202,0.028678172,exposed (heat and moisture)
+S3,345,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S3,345,6,top,z+,T,39.886814,0.043640917,exposed (heat and moisture)
+S3,375,1,side,x-,L,40.299576,0.047819157,exposed (heat and moisture)
+S3,375,2,side,x+,L,36.782255,0.043645532,exposed (heat and moisture)
+S3,375,3,windward,y-,R,38.89156,0.046148416,exposed (heat and moisture)
+S3,375,4,leeward,y+,R,26.367853,0.031287884,exposed (heat and moisture)
+S3,375,5,"bottom, on the plate",z-,T,0,0,"sealed for moisture; heat by plate contact, h = 100"
+S3,375,6,top,z+,T,37.906063,0.044979033,exposed (heat and moisture)

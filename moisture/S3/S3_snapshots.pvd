@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.0000" file="snapshots_vtu/S3_00_t00.00h.vtu"/>
+    <DataSet timestep="4.0793" file="snapshots_vtu/S3_01_t04.08h.vtu"/>
+    <DataSet timestep="8.1587" file="snapshots_vtu/S3_02_t08.16h.vtu"/>
+    <DataSet timestep="12.2380" file="snapshots_vtu/S3_03_t12.24h.vtu"/>
+    <DataSet timestep="16.3173" file="snapshots_vtu/S3_04_t16.32h.vtu"/>
+    <DataSet timestep="20.3966" file="snapshots_vtu/S3_05_t20.40h.vtu"/>
+    <DataSet timestep="24.4760" file="snapshots_vtu/S3_06_t24.48h.vtu"/>
+  </Collection>
+</VTKFile>
